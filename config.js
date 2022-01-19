@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao tụi con lại gặp thầy <3',
     btnReply: 'Gửi cho tụi con <3',
     reply: 'thầy dạy tụi con nha thầy <33333333',
-    mess: 'con biết mà 🥰. Yêu thầy nhiều nhiều 😘😘',
+    mess: 'con biết mà 🥰. Yêu thầy nhiều nhiều  😘😘',
     messDesc: 'dạy tụi con tiếp nhee thầy <33333',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/lethanhdat/Confess-Crush'
