@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "cảm nhận về Sang",
-    introTitle: 'Sang oiiii',
+    titleWeb: "xin lỗi thầy",
+    introTitle: 'Thầy oiiii',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao tui cứ đi nhầm đường
-    Lạc vào tim Sang lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao tụi con đi nhầm đường
+    Lạc vào tim thầy lẻ loi
+    Một chữ cũng là thầy, nửa chữ cũng là thầy`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng tui đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng tui say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'sang thích Đạt',
-    btnNo: 'sang thích Nghi',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Em biết mà 🥰. Yêu chị nhiều nhiều 😘😘',
-    messDesc: 'Làm ngừ eo em nhee <33333',
+    title: 'Phải chăng tụi con đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Thầy có thể mở lòng từ bi dẫn dắt tụi con để trở thành những công dân tốt được hong thầy ',
+    btnYes: 'được chứ',
+    btnNo: 'hong được ròi',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao tụi con lại gặp thầy <3',
+    btnReply: 'Gửi cho tụi con <3',
+    reply: 'thầy dạy tụi con nha thầy <33333333',
+    mess: 'con biết mà 🥰. Yêu thầy nhiều nhiều 😘😘',
+    messDesc: 'dạy tụi con tiếp nhee thầy <33333',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://github.com/lethanhdat/Confess-Crush'
 }
