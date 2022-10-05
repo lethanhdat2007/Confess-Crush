@@ -1,18 +1,18 @@
 const CONFIG = {
     titleWeb: "Đạt muốn nóii",
-    introTitle: 'Mii oiiii',
+    introTitle: 'Chị oiiii',
     introDesc: `Trái đất vốn lạ thường
     mà sao Đạt lại đi nhầm đường
-    Lạc vào tim Mi lẻ loi`,
+    Lạc vào tim chị lẻ loi`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng Đạt đã yêu Mi ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Mi iu Đạt nhaaaa ',
+    title: 'Phải chăng Đạt đã yêu chị ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'chị iu Đạt nhaaaa ',
     btnYes: 'được chứ',
     btnNo: 'hong được ròi',
-    question: 'Mi có iu Đạt hogg',
+    question: 'chị có iu Đạt hogg',
     btnReply: 'gửi cho Đạt',
-    reply: 'iu bạn vlozz <33333333',
-    mess: 'Đạt biết mà 🥰. Yêu Mi nhiều nhiều  😘😘',
+    reply: 'iu chị vlozz <33333333',
+    mess: 'Đạt biết mà 🥰. Yêu chị nhiều nhiều  😘😘',
     messDesc: 'Hôm nào gảnh hai đứa mình đi chụp hình nhaaaaaaaaa...',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.messenger.com/t/100024960013449'
