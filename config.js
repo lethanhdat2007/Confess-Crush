@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Chị oiiii',
     introDesc: `Trái đất vốn lạ thường
     mà sao Đạt lại đi nhầm đường
-    Lạc vào tim chị lẻ loi`,
+    lạc vào tim chị lẻ loi`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Đạt đã yêu chị ngay từ cái nhìn đầu tiên 🥰',
     desc: 'chị iu Đạt nhaaaa ',
@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'hong được ròi',
     question: 'chị có iu Đạt hogg',
     btnReply: 'gửi cho Đạt',
-    reply: 'iu chị vlozz <33333333',
+    reply: 'iu Dat lắm <3',
     mess: 'Đạt biết mà 🥰. Yêu chị nhiều nhiều  😘😘',
     messDesc: 'Hôm nào gảnh hai đứa mình đi chụp hình nhaaaaaaaaa...',
     btnAccept: 'Okiiiii lun <3',
