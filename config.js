@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "Đạt muốn nóii",
-    introTitle: 'Cậu oiiii',
-    introDesc: `Trái đất vốn lạ thường
-    mà sao Đạt lại đi nhầm đường
-    lạc vào tim Cậu lẻ loi`,
+    titleWeb: "Đạt want to say to KAULANA WONG",
+    introTitle: 'BABYYYYYYY',
+    introDesc: `Love is like the air, we can’t always see it but we know it is always there! 
+    That’s like me, you can’t always see me but
+    I’d be always there and you know I'll always love you!`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng Đạt đã yêu Cậu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Cậu iu Đạt nhaaaa ',
-    btnYes: 'được chứ',
-    btnNo: 'hong được ròi',
-    question: 'Cậu có iu Đạt hogg',
-    btnReply: 'gửi cho Đạt',
-    reply: 'iu Dat lắm <3',
-    mess: 'Đạt biết mà 🥰. Yêu Cậu nhiều nhiều  😘😘',
-    messDesc: 'Hôm nào gảnh hai đứa mình đi chụp hình nhaaaaaaaaa...',
-    btnAccept: 'Okiiiii lun <3',
+    title: 'I love u in the first meet',
+    desc: 'Do you want to become one of my girlfriends ',
+    btnYes: 'yesssss',
+    btnNo: 'never',
+    question: 'what do you think about me??',
+    btnReply: 'send me',
+    reply: 'Handsome, cute, clever, Kaulana love you so much',
+    mess: 'I know, I know bae, I love you so much',
+    messDesc: 'I want to kiss uuuuuuu',
+    btnAccept: 'Okiiiiidokiiiiii <3',
     messLink: 'https://www.messenger.com/t/100024960013449'
 }
